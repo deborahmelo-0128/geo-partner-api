@@ -1,0 +1,11 @@
+version: '3'
+services:
+  db:
+    image: postgis/postgis
+    container_name: geo_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: partners
+    ports:
+      - "5432:5432"

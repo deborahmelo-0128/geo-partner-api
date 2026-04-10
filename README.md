@@ -132,5 +132,5 @@ GET /search?lat={lat}&lng={lng}
 ---
 
 ## 👩‍💻 Autor
-Déborah Cristina Melo Lino Coelho
+Déborah Cristina Melo Lino Coelho. 
 Projeto desenvolvido para desafio técnico backend.
